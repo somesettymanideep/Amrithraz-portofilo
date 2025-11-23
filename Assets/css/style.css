@@ -1,0 +1,18 @@
+.bg-hero-section{
+    background-image: url(../images/hero-bg.jpg);
+}
+.bg-transparent{
+    background-color: transparent!important;
+}
+.list-group-item {
+    border:none!important;
+    background-color: none!important;
+}
+.social-media-align{
+    display: flex!important;
+    flex-direction: row!important;
+    gap:10px;
+}
+ul{
+    list-style-type: none;
+}
